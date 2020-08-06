@@ -1,2 +1,4 @@
 dori es en 
 ucso valtozas
+
+ezt push utan irtam bele, pull vajon torli?!?
